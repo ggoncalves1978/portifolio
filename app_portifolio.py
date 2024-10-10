@@ -187,8 +187,8 @@ with st.expander('## Dash - COMEX | Balança Comercial'):
     - **Plotly**: Biblioteca para criação de gráficos interativos.
     """)
 
-    st.markdown('Visualize o projeto: [clique aqui](https://ggoncalves1978-dash-comex-balanca-comercial-zyzunr.streamlit.app//)')
-    st.markdown('Github: [clique aqui](https://github.com/ggoncalves1978/Dash_Comex/tree/main)')
+    st.markdown('Visualize o projeto: [clique aqui](https://ggoncalves1978-dash-comex-st-balanca-comercial-szs5mh.streamlit.app/)')
+    st.markdown('Github: [clique aqui](https://github.com/ggoncalves1978/Dash_Comex_st)')
 
 st.divider()
 st.subheader('Machine Learning')
